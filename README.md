@@ -1,4 +1,4 @@
-# EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-
+![WhatsApp Image 2024-11-16 at 10 30 43_e253ce67](https://github.com/user-attachments/assets/d24ca199-266a-47aa-884d-475a94cc1da5)# EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-
 ### NAME  : V RAKSHA DHARANIKA
 ### REF   : 212223230167
 ## Aim: To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
@@ -130,7 +130,8 @@ int adc_val;
 
 ## Output screen shots on serial monitor   :
  
- 
+ ![WhatsApp Image 2024-11-16 at 10 30 43_e253ce67](https://github.com/user-attachments/assets/81593411-bf39-448e-ac1e-990164c0188b)
+
  
  
 ## Result :
